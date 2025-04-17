@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savqsavq
-- 👀 I’m interested in python, c++, javscript and HTML
-- 🌱 I’m currently learning nothing in coding, but some in real estate
+- 👀 I’m interested in python, c++, javscript, HTML, R and others
+- 🌱 I’m currently working as a data analyst
 - 💞️ I’m looking to collaborate on new coding ventures
 
 <!---
