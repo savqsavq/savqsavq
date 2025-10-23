@@ -9,9 +9,6 @@ data science, computer science, music production, misc.
 mostly experiments, prototypes, and small utilities
 built for fun or function, some work has been redacted for privacy reasons
 </pre>
-
-<p style="font-family: monospace; color:#999;">(this is it)</p>
-
+✷ ✷ ✷
 </div>
 
-✷ ✷ ✷
